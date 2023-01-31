@@ -4,3 +4,5 @@ A demo app for React and Django Deployment
 read me file 
 docker-compose down
 docker-compose up -d 
+
+
